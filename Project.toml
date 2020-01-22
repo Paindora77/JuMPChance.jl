@@ -10,7 +10,7 @@ MathProgBase = "fdba3010-5040-5b88-9595-932c9decdf73"
 [compat]
 Distributions = "0.21"
 ECOS = "0.10"
-JuMP = "0.18"
+JuMP = "0.20"
 MathProgBase = "0.7.7"
 julia = "1"
 
